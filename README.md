@@ -1,2 +1,2 @@
 # Gestion_Hotel_RISCF
- Application Java qui rend la gestion des réservations d'hôtel aussi facile que commander une pizza un vendredi soir.
+Java Application that makes hotel reservation management as easy as ordering a pizza on a Friday night.
